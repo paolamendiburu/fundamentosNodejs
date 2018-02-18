@@ -11,7 +11,6 @@ En la carpeta **lib** están:
 *   Para arrancar mongoDB : `./bin/mongod --dbpath ./data/db --directoryperdb`
 *   Para iniciar el API entorno de desarrollo: `npm run dev`
 *   Para iniciar la base de datos: `npm run installDB`
-## Documentación:
 ## Filtros:
 Se puede filtrar por **nombre**, **rango de precio**, **tags**. También están implementadas las funciones de ordenar, skip y limit.<br>
 Por ejemplo:<br>
