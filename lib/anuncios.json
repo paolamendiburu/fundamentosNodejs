@@ -1,0 +1,44 @@
+{
+    "anuncios": [
+        {
+            "nombre": "Bicicleta",
+            "venta": true,
+            "precio": 230.15,
+            "foto": "bici.jpg",
+            "tags": [
+                "lifestyle",
+                "motor"
+            ]
+        },
+        {
+            "nombre": "iPhone 3GS",
+            "venta": false,
+            "precio": 50.00,
+            "foto": "iphone.png",
+            "tags": [
+                "lifestyle",
+                "mobile"
+            ]
+        },
+        {
+            "nombre": "Silla",
+            "venta": false,
+            "precio": 50,
+            "foto": "silla.jpg",
+            "tags": [
+                "lifestyle",
+                "house"
+            ]
+        },
+        {
+            "nombre": "Tv",
+            "venta": true,
+            "precio": 600.15,
+            "foto": "tv.jpg",
+            "tags": [
+                "lifestyle",
+                "tv"
+            ]
+        }
+    ]
+}
